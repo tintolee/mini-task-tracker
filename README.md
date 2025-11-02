@@ -6,6 +6,18 @@ A modern TypeScript React application for managing personal tasks with categorie
 
 ---
 
+## 🤖 AI Assistance Disclosure
+
+AI tools (GitHub Copilot) was used for:
+
+- Boilerplate code generation and autocomplete suggestions
+- Fixing TypeScript linting errors
+- Generating test case boilerplate
+- Documentation formatting
+- Fix failing tests
+
+## All code was reviewed
+
 ## 📋 Requirements Met
 
 ✅ **Add Task**: Input for title, dropdown for category, add button  
